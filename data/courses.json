@@ -1,0 +1,452 @@
+[
+  {
+    "_id": "635818f432bcf9152edd8a29",
+    "index": 0,
+    "thumb_url": "https://i.ibb.co/wptYtw8/html.jpg",
+    "duration": 160,
+    "course_name": "HTML5",
+    "technology": "Web",
+    "about": "Qui elit irure veniam sunt laborum sit aliquip. Anim incididunt id esse deserunt pariatur amet dolor excepteur. Ulco ad nisi reprehenderit dolor. Aute aute minim anim minim cillum qui et. Esse consequat incididunt aute anim velit adipisicing aliquip sunt mollit ut ut est ipsum. Excepteur sunt laborum deserunt pariatur veniam qui Lorem aliqua cupidatat nisi. Culpa est culpa anim sit cillum ut fugiat aliquip exercitation occaecat fugiat aliqua culpa veniam.\r\n"
+  },
+  {
+    "_id": "635818f4fe8cf67b6a24a87b",
+    "index": 1,
+    "thumb_url": "https://i.ibb.co/KW0tPNc/photoshop.webp",
+    "duration": 190,
+    "course_name": "Adobe Photoshop",
+    "technology": "Graphic Design",
+    "about": "Enim ipsum eu ullamco reprehenderit sunt Lorem veniam sint sunt non nisi anim. Exercitation pariatur pariatur laborum dolor et amet proident aliqua nostrud minim eiusmod nostrud consequat amet. Adipisicing proident fugiat fugiat magna duis elit sit duis laborum. Adipisicing occaecat veniam culpa nisi. Enim mollit amet esse excepteur esse elit qui nulla ut do nostrud nisi. Elit aliqua nisi do laboris tempor labore labore. Nulla culpa dolor commodo et Lorem nisi aliqua consectetur dolore esse nisi consequat cillum.\r\n"
+  },
+  {
+    "_id": "635818f46ca17e1ea0024f67",
+    "index": 2,
+    "thumb_url": "https://i.ibb.co/z6cp8Vx/c.webp",
+    "duration": 89,
+    "course_name": "C",
+    "technology": "App",
+    "about": "Adipisicing veniam ipsum aliqua eu nisi ullamco laborum aute et dolore reprehenderit reprehenderit anim. Ut ut duis fugiat ut enim commodo ipsum aliqua aute. Velit excepteur ipsum commodo consequat qui amet elit.\r\n"
+  },
+  {
+    "_id": "635818f4a44ab449bdda822b",
+    "index": 3,
+    "thumb_url": "https://i.ibb.co/xmnk1d4/davinci-resolv.jpg",
+    "duration": 131,
+    "course_name": "Davinci Resolv",
+    "technology": "Video Editing",
+    "about": "Dolor consequat ut id aliqua minim nisi nisi eu irure ipsum qui qui. Ex aliquip exercitation sunt incididunt irure consequat ut deserunt laborum amet sunt Lorem. Reprehenderit consectetur et et enim ut amet nisi occaecat velit elit. Irure officia tempor adipisicing occaecat dolore ut sit consectetur pariatur dolore ea amet ut.\r\n"
+  },
+  {
+    "_id": "635818f463646a6ba4bb91f8",
+    "index": 4,
+    "thumb_url": "https://i.ibb.co/bmg8nJK/appdesign.png",
+    "duration": 21,
+    "course_name": "App Design",
+    "technology": "Design",
+    "about": "Occaecat consectetur minim ex incididunt cillum consequat elit ea consectetur sint eu. Aliqua quis nostrud Lorem adipisicing. Nisi voluptate eu est quis irure id do veniam eu deserunt reprehenderit. Labore commodo ipsum laboris deserunt nostrud ut do cupidatat quis minim. Fugiat consequat deserunt laboris adipisicing consectetur magna officia culpa reprehenderit consectetur quis magna velit do.\r\n"
+  },
+  {
+    "_id": "635818f4eda84e5404b3c88d",
+    "index": 5,
+    "thumb_url": "https://i.ibb.co/KWxHHHZ/public-blockchain.webp",
+    "duration": 167,
+    "course_name": "Public Blockchain",
+    "technology": "Blockchain",
+    "about": "Ullamco officia esse nisi fugiat consectetur aliquip laboris consectetur elit amet pariatur sunt excepteur. Excepteur non consectetur dolore quis non do et nisi id aute. Reprehenderit aliquip officia magna enim non ut eiusmod tempor. Occaecat tempor deserunt voluptate fugiat Lorem irure incididunt irure laboris tempor mollit.\r\n"
+  },
+  {
+    "_id": "635818f4bb02bf1e5e7e9047",
+    "index": 6,
+    "thumb_url": "https://i.ibb.co/gTkH9xt/css.webp",
+    "duration": 79,
+    "course_name": "CSS3",
+    "technology": "Web",
+    "about": "Laboris consequat sint qui ut ad exercitation tempor est voluptate consectetur sunt amet. Cillum cillum anim tempor officia velit Lorem excepteur enim incididunt ipsum anim eu irure. Sint cupidatat fugiat nisi aute.\r\n"
+  },
+  {
+    "_id": "635818f4bc8f863b741fadc8",
+    "index": 7,
+    "thumb_url": "https://i.ibb.co/XJcGjZt/sketch.png",
+    "duration": 199,
+    "course_name": "Sketch",
+    "technology": "Graphic Design",
+    "about": "Cillum irure ullamco consequat excepteur exercitation mollit eiusmod culpa elit commodo cupidatat consequat. Et adipisicing id eu proident commodo ut do enim eu. Occaecat in anim exercitation ullamco eiusmod veniam anim ad minim in veniam. Tempor id Lorem ipsum aute dolor magna elit occaecat Lorem labore tempor excepteur.\r\n"
+  },
+  {
+    "_id": "635818f494aef933802c264c",
+    "index": 8,
+    "thumb_url": "https://i.ibb.co/z5Dn2M6/c.webp",
+    "duration": 140,
+    "course_name": "C#",
+    "technology": "App",
+    "about": "Nisi duis voluptate eu labore eu velit cillum. Fugiat est culpa deserunt mollit exercitation ut in. Elit exercitation consectetur id irure labore. Duis ipsum laborum minim ullamco esse consequat occaecat aute ea aliquip commodo occaecat ullamco ad. Ea do reprehenderit cillum ad reprehenderit culpa officia ea deserunt fugiat laboris mollit Lorem amet.\r\n"
+  },
+  {
+    "_id": "635818f4cab0af75ac0871cc",
+    "index": 9,
+    "thumb_url": "https://i.ibb.co/gtK68dY/hitfilm.jpg",
+    "duration": 172,
+    "course_name": "HitFlim Express",
+    "technology": "Video Editing",
+    "about": "Aute nisi enim dolore anim laboris est laborum pariatur ut est. Et ut magna adipisicing voluptate. Anim irure eiusmod sunt dolore commodo nisi culpa magna cillum id. Pariatur labore fugiat velit eiusmod enim incididunt ex fugiat ex consequat dolore enim. Sit id tempor amet fugiat. Lorem cupidatat magna aliquip dolor laboris occaecat mollit veniam sunt commodo. Aliquip pariatur enim exercitation nisi exercitation magna Lorem aute tempor do ad reprehenderit.\r\n"
+  },
+  {
+    "_id": "635818f4c63ece400929bb08",
+    "index": 10,
+    "thumb_url": "https://i.ibb.co/5cNMLc1/private-blockchain.jpg",
+    "duration": 112,
+    "course_name": "Private Blockchain",
+    "technology": "Blockchain",
+    "about": "Esse aliqua id incididunt velit enim aliquip cillum qui proident. Non est non veniam minim ipsum aute dolor adipisicing duis non reprehenderit laborum in. Elit exercitation tempor ullamco voluptate labore nisi elit sint magna consequat veniam. Minim esse laborum non occaecat commodo. Qui fugiat est fugiat nisi non eiusmod ex nulla proident elit voluptate ipsum commodo enim. Mollit tempor ullamco proident est laboris irure quis tempor dolor ad reprehenderit excepteur.\r\n"
+  },
+  {
+    "_id": "635818f48692b2b7eb3b1e46",
+    "index": 11,
+    "thumb_url": "https://i.ibb.co/J54rG1q/landingpagedesign.jpg",
+    "duration": 163,
+    "course_name": "Landing Page Design",
+    "technology": "Design",
+    "about": "In quis commodo cillum cupidatat quis officia ex eiusmod magna sit. Adipisicing do deserunt aliqua nisi duis dolore irure consectetur magna occaecat. Sit ex fugiat consequat ut qui incididunt qui laborum Lorem officia eu. Minim ut et proident culpa. Consectetur ullamco nisi ullamco deserunt sunt elit voluptate incididunt ad incididunt proident minim. Officia aliqua amet enim est elit nostrud aliquip aute laborum velit laborum sit sunt. Deserunt elit laborum commodo labore voluptate aliqua aliqua.\r\n"
+  },
+  {
+    "_id": "635818f4767733ec8bbf7105",
+    "index": 12,
+    "thumb_url": "https://i.ibb.co/QbPfN5Q/bootstrap.webp",
+    "duration": 50,
+    "course_name": "Bootstrap",
+    "technology": "Web",
+    "about": "Duis id nulla ipsum ullamco ipsum aute ullamco minim id consectetur. Fugiat et cillum aliqua consequat ad pariatur aliqua sit. Eiusmod id elit commodo dolore sint culpa.\r\n"
+  },
+  {
+    "_id": "635818f418b718d973dd5794",
+    "index": 13,
+    "thumb_url": "https://i.ibb.co/8MF6Z99/indesign.webp",
+    "duration": 102,
+    "course_name": "Adobe Indesign",
+    "technology": "Graphic Design",
+    "about": "Cillum ea tempor eu nisi mollit officia. Labore dolor dolore cillum cupidatat. Veniam cupidatat exercitation veniam adipisicing ex qui fugiat laborum id velit. Minim consectetur tempor irure veniam ipsum laboris minim consequat amet irure dolore ipsum commodo dolor.\r\n"
+  },
+  {
+    "_id": "635818f47f811c0fdec59986",
+    "index": 14,
+    "thumb_url": "https://i.ibb.co/c2pGVrW/c.png",
+    "duration": 115,
+    "course_name": "C++",
+    "technology": "App",
+    "about": "Ex esse consectetur reprehenderit laborum. Aliquip ullamco in excepteur id. Sit officia sint ipsum aliquip ea deserunt nostrud exercitation dolor fugiat ea officia ipsum laborum.\r\n"
+  },
+  {
+    "_id": "635818f445e24f73493c1dc0",
+    "index": 15,
+    "thumb_url": "https://i.ibb.co/TY30tCX/imovie.jpg",
+    "duration": 156,
+    "course_name": "I Movie",
+    "technology": "Video Editing",
+    "about": "Ipsum nostrud laborum aute aute voluptate esse ullamco officia eu culpa ea. Elit excepteur incididunt in in veniam veniam ullamco qui ullamco ipsum aliqua. Veniam tempor nulla consequat proident laborum veniam fugiat ut labore anim. Lorem tempor ullamco tempor ea nulla id consectetur. Nulla cillum consequat incididunt cillum aliquip ut duis amet Lorem mollit ullamco. Mollit eiusmod labore cillum consequat sint cillum dolor et reprehenderit labore duis. Consectetur incididunt non officia mollit fugiat Lorem commodo anim.\r\n"
+  },
+  {
+    "_id": "635818f419152af1435f5f7a",
+    "index": 16,
+    "thumb_url": "https://i.ibb.co/m5FG1pB/uxdesign.png",
+    "duration": 143,
+    "course_name": "UX Design",
+    "technology": "Design",
+    "about": "Elit est incididunt elit ullamco enim laboris sint incididunt officia. Est consectetur aliquip aliqua dolore adipisicing non sint adipisicing adipisicing in aliqua deserunt. Eiusmod aliquip velit esse irure culpa aliquip aliqua in amet id et excepteur.\r\n"
+  },
+  {
+    "_id": "635818f4dc684c157384d0fa",
+    "index": 17,
+    "thumb_url": "https://i.ibb.co/f2XYgjY/Hybrid-blockchains.jpg",
+    "duration": 140,
+    "course_name": "Hybrid Blockchain",
+    "technology": "Blockchain",
+    "about": "Aute laborum in incididunt anim sunt aliquip ipsum est nostrud occaecat excepteur ullamco. Sit anim cillum magna culpa duis do officia occaecat ex pariatur dolore qui cillum mollit. Ex exercitation occaecat ad tempor proident ea incididunt in. Minim adipisicing eiusmod fugiat tempor aliquip anim id amet proident ad nulla qui.\r\n"
+  },
+  {
+    "_id": "635818f46813e79d9043940e",
+    "index": 18,
+    "thumb_url": "https://i.ibb.co/gmFfZdY/tailwind.webp",
+    "duration": 27,
+    "course_name": "Tailwind CSS",
+    "technology": "Web",
+    "about": "Proident amet sit consectetur reprehenderit ex elit voluptate ut. Lorem do irure cupidatat voluptate reprehenderit duis excepteur. Consectetur nisi excepteur eiusmod deserunt anim commodo occaecat. Id enim excepteur dolore officia excepteur. Ea eu culpa est quis velit nostrud aliqua sit nisi ullamco amet et. Excepteur aliqua Lorem non adipisicing ea dolore.\r\n"
+  },
+  {
+    "_id": "635818f46c939621d7490d70",
+    "index": 19,
+    "thumb_url": "https://i.ibb.co/VQ8WRKG/mega-creator.png",
+    "duration": 123,
+    "course_name": "Mega Creator",
+    "technology": "Graphic Design",
+    "about": "Irure voluptate voluptate velit excepteur veniam do cupidatat officia sunt aliqua eiusmod consectetur minim aliqua. Non aliquip commodo aliqua magna minim commodo id sit tempor. Sit et labore nisi elit. Laborum veniam laboris ex veniam esse in duis do ut laborum exercitation velit est magna. Commodo sunt exercitation voluptate eu exercitation duis non enim qui. Consequat ullamco ea aute exercitation anim adipisicing dolor anim exercitation.\r\n"
+  },
+  {
+    "_id": "635818f47297b1a63deedb75",
+    "index": 20,
+    "thumb_url": "https://i.ibb.co/KFF7V4B/groovy.webp",
+    "duration": 43,
+    "course_name": "Groovy",
+    "technology": "App",
+    "about": "Incididunt magna dolor tempor non nulla ex ea exercitation exercitation. Labore tempor quis occaecat consectetur officia do magna nisi reprehenderit do ex dolor incididunt ut. Labore proident velit dolore labore fugiat sit occaecat incididunt. Nisi amet enim magna aliquip irure esse officia exercitation ea. Laborum cupidatat enim consequat fugiat ullamco elit excepteur veniam qui. Sunt consequat et incididunt aute proident in mollit reprehenderit. Nulla cillum velit pariatur ex consequat non officia aliqua id anim mollit adipisicing.\r\n"
+  },
+  {
+    "_id": "635818f437dbd48996c1f30c",
+    "index": 21,
+    "thumb_url": "https://i.ibb.co/yQ8hhdd/kdenlive.jpg",
+    "duration": 101,
+    "course_name": "Kden Live",
+    "technology": "Video Editing",
+    "about": "Exercitation incididunt magna voluptate excepteur ipsum et dolor mollit non quis consectetur esse est exercitation. Labore eu eiusmod cillum amet reprehenderit cupidatat. Laborum non laboris dolor consectetur cupidatat anim ullamco officia tempor ad. Eiusmod nostrud sunt velit culpa non. Occaecat anim anim culpa cupidatat excepteur commodo cupidatat elit mollit. Est occaecat cupidatat ullamco cupidatat. Anim ea mollit veniam cupidatat proident incididunt quis cupidatat est et.\r\n"
+  },
+  {
+    "_id": "635818f43ab39fac948300ab",
+    "index": 22,
+    "thumb_url": "https://i.ibb.co/H4bj4YK/icondeasign.png",
+    "duration": 81,
+    "course_name": "Icon Design",
+    "technology": "Design",
+    "about": "Esse commodo Lorem culpa tempor ex occaecat. Do exercitation mollit cupidatat qui velit in magna consequat. Labore do voluptate anim amet excepteur Lorem culpa exercitation cillum irure enim eu. Nostrud culpa esse occaecat officia. Consequat dolore aliqua ex ullamco exercitation excepteur. Sint voluptate do eu eiusmod. Aute veniam magna consequat esse velit.\r\n"
+  },
+  {
+    "_id": "635818f4ea00d8f6bd805644",
+    "index": 23,
+    "thumb_url": "https://i.ibb.co/52TFBNx/download.jpg",
+    "duration": 89,
+    "course_name": "Consortium Blockchain",
+    "technology": "Blockchain",
+    "about": "Culpa voluptate mollit incididunt voluptate do minim consectetur nisi incididunt deserunt amet do culpa enim. Culpa culpa nisi eu cupidatat veniam labore excepteur sint qui laborum do. Adipisicing dolore irure exercitation nisi.\r\n"
+  },
+  {
+    "_id": "635818f4ea849149a522034b",
+    "index": 24,
+    "thumb_url": "https://i.ibb.co/gVtDKpg/javascript.jpg",
+    "duration": 127,
+    "course_name": "Javascript",
+    "technology": "Web",
+    "about": "Mollit cupidatat consectetur duis do dolor cillum pariatur est. Ut consectetur ad ut pariatur. Consequat cillum id aliquip do occaecat et anim exercitation cillum irure. Eiusmod commodo magna mollit labore eu ea ad incididunt nisi voluptate. Et irure id ex fugiat est eu velit cillum. Voluptate dolor culpa eu culpa dolore aute aliqua.\r\n"
+  },
+  {
+    "_id": "635818f4c8a2d884d8b0adc3",
+    "index": 25,
+    "thumb_url": "https://i.ibb.co/Y3Y6hy9/coreldraw.jpg",
+    "duration": 126,
+    "course_name": "Corel Draw",
+    "technology": "Graphic Design",
+    "about": "Commodo anim pariatur qui sunt velit officia est sunt nulla fugiat commodo. Nostrud aliqua enim fugiat tempor pariatur ullamco nisi est deserunt. Minim nisi mollit esse incididunt aute eu tempor. In deserunt tempor ex id ad labore ex cupidatat elit ad cillum consequat exercitation. Tempor ipsum cillum cillum Lorem in ea id ut Lorem irure non cillum fugiat. Deserunt commodo reprehenderit amet in.\r\n"
+  },
+  {
+    "_id": "635818f4f610cc1d67a4e20b",
+    "index": 26,
+    "thumb_url": "https://i.ibb.co/GtxQpnF/java.webp",
+    "duration": 49,
+    "course_name": "Java",
+    "technology": "App",
+    "about": "Eiusmod proident nisi fugiat quis ullamco veniam. Do sit velit officia mollit commodo sit occaecat voluptate magna dolore mollit officia sunt. Fugiat mollit velit aute ullamco adipisicing ea qui. Cupidatat ad reprehenderit excepteur officia amet fugiat eiusmod dolor anim sit ullamco in tempor eiusmod. Veniam ad reprehenderit ad commodo consectetur consequat excepteur ut ad do eu.\r\n"
+  },
+  {
+    "_id": "635818f4e4ab6baa55e4dabd",
+    "index": 27,
+    "thumb_url": "https://i.ibb.co/CQV5btb/lightworks.png",
+    "duration": 52,
+    "course_name": "Light Works",
+    "technology": "Video Editing",
+    "about": "Sunt esse ex do ex et. Reprehenderit labore labore elit incididunt culpa dolore cupidatat exercitation cillum officia proident magna. Ipsum consectetur ad enim consectetur. Est nulla aliquip adipisicing ex Lorem in deserunt. Labore ea quis anim aute eu cillum fugiat adipisicing occaecat excepteur eu irure et. Veniam officia minim mollit reprehenderit.\r\n"
+  },
+  {
+    "_id": "635818f414375c0afa5317c8",
+    "index": 28,
+    "thumb_url": "https://i.ibb.co/cTMbSRp/webdesign.webp",
+    "duration": 176,
+    "course_name": "Web Design",
+    "technology": "Design",
+    "about": "Cillum ad id est do officia esse. Cupidatat deserunt proident nulla magna non. Nostrud ad ullamco labore ex ut consequat dolor velit ad. Non anim esse aliquip dolor amet amet commodo voluptate voluptate. In proident sunt irure duis ut Lorem sunt pariatur et do tempor. Amet eiusmod eiusmod quis pariatur.\r\n"
+  },
+  {
+    "_id": "635818f44d22853f54b8bede",
+    "index": 29,
+    "thumb_url": "https://i.ibb.co/dt3jb3d/dogecoin.jpg",
+    "duration": 64,
+    "course_name": "Dogecoin",
+    "technology": "Blockchain",
+    "about": "Ullamco ad magna dolore sunt exercitation consectetur ullamco. In Lorem magna non eiusmod consectetur ut adipisicing et. Enim et anim eiusmod dolor eu ea. Consequat enim do mollit officia consectetur consectetur ea. Id consequat nostrud deserunt excepteur officia sunt anim labore. Occaecat exercitation mollit elit et magna veniam velit anim irure ipsum commodo aliquip id.\r\n"
+  },
+  {
+    "_id": "635818f4681c656362a896bb",
+    "index": 30,
+    "thumb_url": "https://i.ibb.co/5x1ZtMn/react.jpg",
+    "duration": 117,
+    "course_name": "React Js",
+    "technology": "Web",
+    "about": "Pariatur eu aliquip occaecat qui anim minim sunt commodo sunt. Consectetur cillum officia nulla deserunt laborum laborum excepteur aliqua consectetur sit occaecat duis non ea. Lorem et voluptate officia magna eu et velit reprehenderit aliquip sint aliquip. Ea ea ut ut sint veniam labore ea pariatur nisi tempor pariatur veniam in amet. Mollit consequat voluptate officia tempor ut sunt. Qui duis Lorem ea exercitation. Ut non mollit deserunt labore irure irure ex minim nisi amet.\r\n"
+  },
+  {
+    "_id": "635818f4e3b2175caaca0b01",
+    "index": 31,
+    "thumb_url": "https://i.ibb.co/BfLJyrb/illustrator.webp",
+    "duration": 185,
+    "course_name": "Adobe Illustrator",
+    "technology": "Graphic Design",
+    "about": "Eiusmod esse magna excepteur consequat anim ad non velit est. Pariatur reprehenderit ullamco enim eu in ullamco occaecat. Anim mollit dolore ipsum exercitation irure culpa nulla labore elit pariatur fugiat officia consectetur. Aliquip id ad eu magna.\r\n"
+  },
+  {
+    "_id": "635818f4eba4575901f32177",
+    "index": 32,
+    "thumb_url": "https://i.ibb.co/QXMJysD/php.png",
+    "duration": 97,
+    "course_name": "PHP",
+    "technology": "App",
+    "about": "Enim officia aliqua reprehenderit minim nisi irure. Proident exercitation magna quis aute mollit cupidatat fugiat sit aliquip dolore sunt elit consequat do. Cillum et amet Lorem nostrud aliquip cillum commodo do ut minim.\r\n"
+  },
+  {
+    "_id": "635818f441a1cc7ccd532287",
+    "index": 33,
+    "thumb_url": "https://i.ibb.co/KDfL1qJ/openshot.jpg",
+    "duration": 99,
+    "course_name": "Open Shot",
+    "technology": "Video Editing",
+    "about": "Voluptate Lorem laboris culpa sunt velit laboris anim ut. In sunt ea consequat enim ipsum nostrud sint. Deserunt culpa est nostrud cillum. Commodo sunt ex cupidatat cillum proident velit anim voluptate ea fugiat non. Ullamco magna voluptate pariatur anim reprehenderit eiusmod. Adipisicing officia est enim sunt consequat cupidatat qui ex sint duis duis in tempor aute. Ex ea est nostrud sit aliquip mollit nisi aliqua amet.\r\n"
+  },
+  {
+    "_id": "635818f44c76aba4fc9d4d96",
+    "index": 34,
+    "thumb_url": "https://i.ibb.co/hMvT0vX/nft.jpg",
+    "duration": 42,
+    "course_name": "NFT",
+    "technology": "Blockchain",
+    "about": "Enim laboris culpa sunt irure sint mollit adipisicing minim non velit ut. Cillum ad incididunt magna amet sunt et non do exercitation magna sunt mollit id nulla. Sunt do excepteur dolor Lorem sunt dolore occaecat. Non eu sint esse dolor cillum sunt sit commodo ex in.\r\n"
+  },
+  {
+    "_id": "635818f4ad6a457ddd63801d",
+    "index": 35,
+    "thumb_url": "https://i.ibb.co/tCBpRq5/ethereum.jpg",
+    "duration": 71,
+    "course_name": "Ethereum",
+    "technology": "Blockchain",
+    "about": "Et pariatur dolore Lorem consequat aliqua consectetur magna consequat ipsum dolore occaecat. Fugiat laborum aliqua ad aute elit ex cupidatat consectetur. Quis ad sint tempor veniam in reprehenderit exercitation proident eiusmod et exercitation ullamco. Eiusmod laboris laboris veniam occaecat excepteur reprehenderit elit reprehenderit sit laboris. Pariatur qui magna aute veniam nulla consequat do eu ut ut ex.\r\n"
+  },
+  {
+    "_id": "635818f47ac679d165429092",
+    "index": 36,
+    "thumb_url": "https://i.ibb.co/LZHphCj/firebase.png",
+    "duration": 124,
+    "course_name": "Firebase",
+    "technology": "Web",
+    "about": "Fugiat incididunt aliquip voluptate enim ullamco aliqua quis dolor dolore ullamco eiusmod qui. Velit veniam id est ut velit non. Amet laborum aliqua voluptate quis deserunt velit veniam voluptate aliquip eiusmod consectetur. Est excepteur mollit do ad ex. Fugiat officia excepteur excepteur irure reprehenderit consectetur. Aute magna duis tempor qui eiusmod tempor laborum irure dolor exercitation dolor. Labore tempor enim minim ad.\r\n"
+  },
+  {
+    "_id": "635818f4c41c5072c8110182",
+    "index": 37,
+    "thumb_url": "https://i.ibb.co/qyhFQVJ/affinity.webp",
+    "duration": 155,
+    "course_name": "Affinity",
+    "technology": "Graphic Design",
+    "about": "Pariatur non elit amet aute voluptate eu. Deserunt voluptate commodo id fugiat. Excepteur do amet cupidatat nostrud veniam aute cupidatat aliquip Lorem. In culpa eu excepteur dolore sit est Lorem. Nostrud Lorem nostrud nostrud aute dolor labore ullamco non.\r\n"
+  },
+  {
+    "_id": "635818f4a4d53476f88c86c1",
+    "index": 38,
+    "thumb_url": "https://i.ibb.co/Y3ND7Xk/python.jpg",
+    "duration": 129,
+    "course_name": "Python",
+    "technology": "App",
+    "about": "Ex nulla exercitation veniam proident ex ea nisi in aute. Nostrud eu irure quis laborum irure exercitation dolore dolor fugiat. Ipsum magna excepteur tempor labore in cupidatat commodo.\r\n"
+  },
+  {
+    "_id": "635818f4904fc2d1e8da7fd9",
+    "index": 39,
+    "thumb_url": "https://i.ibb.co/PMkWGwn/premierepro.webp",
+    "duration": 158,
+    "course_name": "Adobe Premier Pro",
+    "technology": "Video Editing",
+    "about": "Aliquip proident aliquip sunt dolor. Ad laborum consectetur non non dolore sunt duis. Officia tempor ea eu non esse. Eiusmod officia proident nisi est. Sunt non enim ut pariatur id non qui dolore.\r\n"
+  },
+  {
+    "_id": "635818f453828bb7e1c29c8d",
+    "index": 40,
+    "thumb_url": "https://i.ibb.co/FB5spTQ/flimora.webp",
+    "duration": 61,
+    "course_name": "Wondershare Flimora",
+    "technology": "Video Editing",
+    "about": "Non adipisicing reprehenderit sit velit ea magna laboris culpa ullamco pariatur enim. Anim sunt incididunt enim deserunt magna elit ut deserunt anim. Fugiat tempor id ipsum minim nostrud est ullamco aliqua ea. Velit eiusmod adipisicing mollit proident anim culpa sint et dolore. Sint officia irure nisi elit magna nostrud eiusmod. Ut ut nostrud fugiat nostrud consectetur cupidatat amet exercitation exercitation irure minim deserunt duis. Lorem sint deserunt quis labore consequat do laboris enim Lorem ut.\r\n"
+  },
+  {
+    "_id": "635818f4521e105fb24f0d0b",
+    "index": 41,
+    "thumb_url": "https://i.ibb.co/d4JNmM8/videopad.png",
+    "duration": 90,
+    "course_name": "Video Pad",
+    "technology": "Video Editing",
+    "about": "Cupidatat quis velit aliqua cupidatat exercitation non tempor occaecat ullamco. Voluptate sit ullamco laborum sit. Irure ex ut ea ea velit. Id consectetur ut ullamco laboris. Non sint ex anim nulla. Dolore excepteur quis quis nisi. Ex qui ea tempor do sunt enim culpa ut proident amet quis occaecat laborum incididunt.\r\n"
+  },
+  {
+    "_id": "635818f44c0c2750cad4baf0",
+    "index": 42,
+    "thumb_url": "https://i.ibb.co/CzNVcg7/node.png",
+    "duration": 158,
+    "course_name": "Node Js",
+    "technology": "Web",
+    "about": "Labore irure ipsum irure qui voluptate elit magna ea qui officia. Lorem reprehenderit adipisicing dolor sit. Excepteur pariatur ad aliqua velit. Enim dolor ut laborum anim ea sint sint minim incididunt elit. In eu elit ex Lorem quis elit irure non occaecat exercitation. Anim adipisicing esse ipsum eiusmod dolor pariatur occaecat culpa enim ad adipisicing consequat nulla ipsum.\r\n"
+  },
+  {
+    "_id": "635818f456162e57c92ee27d",
+    "index": 43,
+    "thumb_url": "https://i.ibb.co/SwqSh3b/pinterest.webp",
+    "duration": 39,
+    "course_name": "Pinterest",
+    "technology": "Graphic Design",
+    "about": "Ad ex eiusmod ut occaecat Lorem proident laborum nisi eiusmod. Proident ex ad non laborum nulla officia sint excepteur ipsum aliquip ullamco. Aliquip aliqua laboris qui mollit consectetur sint. Exercitation duis nostrud ullamco ut reprehenderit excepteur. Esse esse veniam cillum occaecat laborum ex consequat pariatur.\r\n"
+  },
+  {
+    "_id": "635818f460de50f3600c8d1a",
+    "index": 44,
+    "thumb_url": "https://i.ibb.co/dMNgsd9/sql.png",
+    "duration": 165,
+    "course_name": "SQL",
+    "technology": "App",
+    "about": "Mollit ullamco adipisicing pariatur nulla ad. Et id tempor cupidatat nulla. Nostrud mollit est dolor nisi Lorem. Consequat quis nostrud nisi anim aute exercitation cillum magna. Cillum veniam reprehenderit do elit laborum ea duis fugiat aute. Sint culpa Lorem tempor veniam ut in eiusmod pariatur elit quis cillum. Labore ex excepteur laboris eiusmod eu sit qui est.\r\n"
+  },
+  {
+    "_id": "635818f4d63020316dd3d5e8",
+    "index": 45,
+    "thumb_url": "https://i.ibb.co/KhDxRqY/shotcut.png",
+    "duration": 93,
+    "course_name": "ShotCut",
+    "technology": "Video Editing",
+    "about": "Sit minim ipsum enim reprehenderit voluptate reprehenderit. Officia consequat laborum excepteur ad nisi laborum. Laboris voluptate sit amet qui ad voluptate. Do est dolore aute velit consectetur. Dolore dolor anim excepteur officia proident cillum amet dolor veniam tempor cupidatat culpa. Exercitation id sint ad fugiat dolore adipisicing laboris aliquip est nostrud pariatur qui. Sint dolor aliqua officia ullamco consectetur tempor consequat amet eiusmod aliquip et.\r\n"
+  },
+  {
+    "_id": "635818f4a4d4900e8330617e",
+    "index": 46,
+    "thumb_url": "https://i.ibb.co/1v3grVQ/ruby.png",
+    "duration": 200,
+    "course_name": "Ruby",
+    "technology": "App",
+    "about": "Minim ea nisi deserunt commodo ipsum excepteur amet voluptate. Cupidatat aute mollit amet sint. Eiusmod eiusmod ad irure exercitation veniam labore qui tempor commodo do sit voluptate laborum exercitation. Amet aliquip exercitation pariatur fugiat sint ullamco irure culpa consectetur. Velit elit minim sit aute veniam officia quis aute adipisicing amet. Aliqua aliquip mollit id deserunt commodo duis ex ullamco irure duis reprehenderit proident.\r\n"
+  },
+  {
+    "_id": "635818f4111501d67a8f1396",
+    "index": 47,
+    "thumb_url": "https://i.ibb.co/T1zH4Dz/visualbasic.webp",
+    "duration": 188,
+    "course_name": "Visual Basic",
+    "technology": "App",
+    "about": "Pariatur eiusmod est proident non cillum excepteur. Ipsum nostrud in aute ut aliqua sint elit officia Lorem voluptate ut. Ea adipisicing enim reprehenderit nulla duis magna irure proident. Dolor amet nisi duis dolore reprehenderit.\r\n"
+  },
+  {
+    "_id": "635818f4550b3f2287d99eca",
+    "index": 48,
+    "thumb_url": "https://i.ibb.co/X4CnTv6/mongodb.png",
+    "duration": 29,
+    "course_name": "Mongo DB",
+    "technology": "Web",
+    "about": "Duis amet aliquip laborum deserunt magna nostrud velit laborum commodo amet magna. Eiusmod sint voluptate nulla nostrud nulla. Id et occaecat enim deserunt occaecat amet deserunt eiusmod elit amet nostrud ullamco.\r\n"
+  },
+  {
+    "_id": "635818f4e2f9b730774c7b77",
+    "index": 49,
+    "thumb_url": "https://i.ibb.co/WfKWSmW/gimp.jpg",
+    "duration": 43,
+    "course_name": "GIMP",
+    "technology": "Graphic Design",
+    "about": "Ipsum exercitation deserunt esse non et cillum commodo consequat proident veniam esse nulla. Commodo minim reprehenderit officia et consectetur minim reprehenderit amet velit mollit enim non. Deserunt nostrud velit enim labore sit dolore proident ipsum. Esse sit mollit ullamco enim consectetur commodo. Aute mollit enim incididunt in nulla. Quis duis aliqua quis aute adipisicing officia ut id id.\r\n"
+  }
+]
