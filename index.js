@@ -8,7 +8,7 @@ const teachers = require("./data/teacher.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Ice can be fireeeeeeeeeeeeeeeeee");
+  res.send("Ice can be fire");
 });
 
 app.get("/courses", (req, res) => {
