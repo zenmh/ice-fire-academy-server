@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "courses_category": "Web"
+  },
+  {
+    "id": 2,
+    "courses_category": "App"
+  },
+  {
+    "id": 3,
+    "courses_category": "Graphic Design"
+  },
+  {
+    "id": 4,
+    "courses_category": "Design"
+  },
+  {
+    "id": 5,
+    "courses_category": "Blockchain"
+  },
+  {
+    "id": 6,
+    "courses_category": "Video Editing"
+  },
+  {
+    "id": 7,
+    "courses_category": "All"
+  }
+]
